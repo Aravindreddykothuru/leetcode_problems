@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aravindreddykothuru/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aravindreddykothuru/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aravindreddykothuru/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aravindreddykothuru/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
